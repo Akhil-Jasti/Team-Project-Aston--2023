@@ -1,0 +1,339 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo-nbs {
+    height: 50px;
+    width: 120px;
+}
+
+.navbar-text-style-nbs {
+    color: black !important;
+    font-family: "Roboto";
+}
+
+.slides-nbs {
+    height: 100vh;
+}
+
+.heading-ss {
+    font-family: "Roboto";
+    font-size: 38px;
+    color: #183b56;
+    font-weight: 700;
+}
+
+.description-ss {
+    font-family: "Roboto";
+    font-size: 22px;
+    color: #616c7c;
+    font-weight: 500;
+}
+
+.card-header-ss {
+    font-family: "Roboto";
+    font-size: 22px;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.card-description-ss {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #7b8794;
+}
+
+.page-heading-ps {
+    font-size: 32px;
+    font-family: "Roboto";
+    color: #183b56;
+    font-weight: 700;
+}
+
+.card-1-ps {
+    border-radius: 16px;
+    background-image: url('androidphones.jpg');
+    background-size: cover;
+    height: 328px;
+    padding: 20px;
+}
+
+.card-2-ps {
+    border-radius: 16px;
+    background-image: url('apple\ phones.jpg');
+    background-size: cover;
+    height: 328px;
+    padding: 20px;
+}
+
+.card-header-ps {
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    font-family: "Roboto";
+}
+
+.card-description-ps {
+    font-size: 16px;
+    color: white;
+    font-family: "Roboto";
+}
+
+.card-button-ps {
+    height: 48px;
+    width: 134px;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 100px;
+    border-width: 0;
+    background-color: white;
+    color: #ff9f00;
+    font-family: "Roboto";
+}
+
+.offers-button-ps {
+    font-family: "Roboto";
+    color: #ff9f00;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.modal-header-ps {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.modal-description-ps {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.modal-list-ps {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.modal-list-item-ps {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.list-item-category-ps {
+    font-weight: bold;
+}
+
+.link-ps {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.bg-container-os {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.offers-section-phones-os{
+    background-color: #ad2167;
+}
+
+.offers-medium-img-os {
+    height: 130px;
+    width: 10px;
+    padding: 10px;
+}
+
+.heading-os {
+    color: #ad2167;
+    font-size: 28px;
+    font-family: "Bree Serif";
+}
+
+.description-os {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.percent-os {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.discount-image-os {
+    width: 250px;
+    margin: 10px;
+}
+
+.header-tbs {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.card-header-tbs {
+    color: #959ead;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.card-heading-tbs {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.card-description-tbs {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.card-button-tbs {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.bg-container-es {
+    background-color: #f5f7fa;
+}
+
+.heading-es {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.card-es {
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.card-image-container-es {
+    padding: 10px;
+}
+
+.card-image-es {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.card-title-es {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card-product-title-es {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.card-link-es {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.cs {
+    background-color: #f5f7fa;
+}
+
+.heading-cs {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.button-cs {
+    color: #ff9f00;
+    background-color: transparent;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    width: 140px;
+    height: 43px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ff9f00;
+}
+
+.bg-container-fs {
+    background-color: #0d2436;
+    background-size: cover;
+}
+
+.vr-logo-fs {
+    height: 56px;
+    width: 163px;
+}
+
+.icon-fs {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.logo-styling {
+    background-color: #152c3e;
+    border-radius: 40px;
+    height: 40px;
+    width: 40px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 15px;
+    padding-bottom: 30px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.address-fs {
+    font-size: 16px;
+    color: #5a7184;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.list-fs {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.list-item-fs {
+    font-size: 16px;
+    color: #5a7184;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.heading-fs {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #5a7184;
+    font-weight: 700;
+}
+
+.line1 {
+    background-color: #5a7184;
+}
+
+.copyright-fs {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
